@@ -1,2 +1,0 @@
-grep Total+kin OUTCAR | awk 'BEGIN {print "# step","pressure (kBar)" } {print NR, ($2+$3+$4)/3 }'
-
