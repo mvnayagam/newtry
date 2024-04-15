@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# -- edited after switching off the git in win
+echo "switching off the git in win"
 wd=`echo $(pwd)`
 cd $wd
 
