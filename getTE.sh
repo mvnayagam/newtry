@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "newly added line in getTE.sh"
+
 echo -e "\n\x1b[1;32m                  ===> Hey you can give no of step from previous run as first argument like \x1b[1;3;35m . getTE.sh \"some_numer\" \x1b[0m\n"
 
 
